@@ -1,9 +1,11 @@
 ## Olá, Mundo 👋
 Apenas Um jovem Entusiasta Apaixonado Por Maquinas...
 
+<!--
+
 ![Neo](Images/kaneki-tokyo-ghoul.gif)
 
-
+-->
 
 <!--
 **RyannKyH/RyannKyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
